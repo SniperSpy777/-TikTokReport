@@ -4,7 +4,7 @@
  <br>  
 ├  All users accounts is updates + proxy.
  <br>  
-├  Over 90k users active. 
+├  Over 120k users active. 
  <br>  
 ├  Bot can report a account with max 850 k followers.
  <br>  
